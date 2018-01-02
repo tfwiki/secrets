@@ -2,3 +2,4 @@
 /keyrings/live/pubring.kbx~
 /keyrings/live/secring.gpg
 /k8s/secret.yaml
+/k8s/secret.prod.yaml

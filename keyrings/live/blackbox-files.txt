@@ -1,1 +1,2 @@
+k8s/secret.prod.yaml
 k8s/secret.yaml
