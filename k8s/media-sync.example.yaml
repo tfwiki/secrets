@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: media-sync-config
+data:
+  from.port: 
+  from.host: 
+  from.user: 
+  from.path: 
+  to.path: 
