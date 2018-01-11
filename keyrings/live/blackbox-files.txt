@@ -2,3 +2,4 @@ k8s/media-sync.prod.yaml
 k8s/secret.prod.yaml
 k8s/secret.yaml
 ssh/media-sync
+ssh/media-sync.pub
