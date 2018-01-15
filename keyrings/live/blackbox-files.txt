@@ -1,6 +1,6 @@
+k8s/blackbox.prod.yaml
 k8s/datadog.prod.yaml
 k8s/media-sync.prod.yaml
-k8s/secret.prod.yaml
-k8s/secret.yaml
+k8s/mediawiki.prod.yaml
 ssh/media-sync
 ssh/media-sync.pub

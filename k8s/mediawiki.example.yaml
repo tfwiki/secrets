@@ -21,12 +21,3 @@ data:
   smtp.username:
   secret_key:
   steam.api.key:
----
-apiVersion: v1
-kind: Secret
-metadata:
-  name: blackfire-secret
-type: Opaque
-data:
-  blackfire.server.id:
-  blackfire.server.token:
