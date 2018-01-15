@@ -1,8 +1,10 @@
 /keyrings/live/pubring.gpg~
 /keyrings/live/pubring.kbx~
 /keyrings/live/secring.gpg
-/k8s/media-sync.prod.yaml
+
+/k8s/prod/blackbox.yaml
+/k8s/prod/datadog.yaml
+/k8s/prod/media-sync.yaml
+/k8s/prod/mediawiki.yaml
 /ssh/media-sync
-/ssh/media-sync.pub/k8s/datadog.prod.yaml
-/k8s/blackbox.prod.yaml
-/k8s/mediawiki.prod.yaml
+/ssh/media-sync.pub
