@@ -5,4 +5,4 @@
 /k8s/secret.prod.yaml
 /k8s/media-sync.prod.yaml
 /ssh/media-sync
-/ssh/media-sync.pub
+/ssh/media-sync.pub/k8s/datadog.prod.yaml
