@@ -8,3 +8,4 @@
 /k8s/prod/mediawiki.yaml
 /ssh/media-sync
 /ssh/media-sync.pub
+/k8s/prod/config.yaml

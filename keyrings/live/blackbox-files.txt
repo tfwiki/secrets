@@ -1,4 +1,5 @@
 k8s/prod/blackbox.yaml
+k8s/prod/config.yaml
 k8s/prod/datadog.yaml
 k8s/prod/media-sync.yaml
 k8s/prod/mediawiki.yaml
