@@ -3,5 +3,10 @@ k8s/prod/config.yaml
 k8s/prod/datadog.yaml
 k8s/prod/media-sync.yaml
 k8s/prod/mediawiki.yaml
+k8s/dev/blackbox.yaml
+k8s/dev/config.yaml
+k8s/dev/datadog.yaml
+k8s/dev/media-sync.yaml
+k8s/dev/mediawiki.yaml
 ssh/media-sync
 ssh/media-sync.pub
